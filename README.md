@@ -1,6 +1,16 @@
 # web_test
 
-A new Flutter project.
+A test project for flutter web with latest flutter, where flutter_web is merged with flutter master.
+
+In order to run this project you need to switch to master channel.
+
+## [Please refer to this tutorial](https://youtu.be/WkWS5YAwU48)
+
+## Running for web
+```
+flutter run -d chrome
+```
+Yes you need google chrome to test flutter web projects for now.
 
 ## Getting Started
 
